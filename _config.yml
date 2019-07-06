@@ -1,0 +1,24 @@
+title: (V000 20190706) MAIN TITLE
+description: >-
+   (V000 20190706) Main Description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+email: e@ma.il
+twitter_username: twitter
+github_username:  github
+markdown: kramdown
+plugins:
+  - jekyll-feed
+github:
+  [metadata]
+
+# theme: minima
+
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
