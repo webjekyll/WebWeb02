@@ -10,9 +10,7 @@ layout: default
 ## Ind File
 ### ind file
 
-- [Folder](./folder)
-
-
-
+- [Blog](./blog/)
+- [Folder](./folder/)
 
 
