@@ -10,7 +10,7 @@ layout: default
 ## Ind File
 ### ind file
 
-OK
+- [Folder](./folder)
 
 
 
