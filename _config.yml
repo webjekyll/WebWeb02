@@ -1,0 +1,24 @@
+version:            V014--11-Aug-2019
+title:              Rahmat M. Samik-Ibrahim
+# email:              my-e@ma.il
+description:        Hello, this is Rahmat M. Samik-Ibrahim!
+author:             Rahmat M. Samik-Ibrahim
+# baseurl:            "/rahmat"
+url:                "https://rahmat.vlsm.org"
+
+# Social Profiles
+twitter_username:   rms46
+github_username:    rms46
+
+# Add your google-analytics ID here to activate google analytics
+# google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+
